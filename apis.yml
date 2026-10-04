@@ -39,7 +39,6 @@ apis:
   - name: Transport for Washington, US
     description: "Washington Metro transport API"
     humanURL: https://developer.wmata.com/
-    baseURL: https://developer.wmata.com/
     tags:
       - Transportation
     properties:
